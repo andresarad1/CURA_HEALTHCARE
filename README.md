@@ -1,6 +1,6 @@
-# Cypress Project
+# Cypress Project Cura_Healthcare
 
-## Prerequisites
+## Prerequisitos
 
 Antes de comenzar, asegúrese de tener Node.js y NPM instalados en su sistema. Puede descargarlos e instalarlos desde [Node.js](https://nodejs.org/).
 
