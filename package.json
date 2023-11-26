@@ -1,0 +1,19 @@
+{
+  "name": "cura_heatlth",
+  "version": "1.0.0",
+  "description": "QA Analista Calidad",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "test:open": "cypress open"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "Andres Yepes andresarad94@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.0",
+    "typescript": "^5.3.2"
+  }
+}
